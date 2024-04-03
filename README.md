@@ -72,6 +72,8 @@ Support the Pricing team in adjusting delivery fees by providing the distributio
 5. **Average Distance Traveled by Motorcycle Drivers:**
    - The average distance traveled by motorcycle delivery drivers varies across regions: 3.7 km in São Paulo (SP), 3.6 km in Rio Grande do Sul (RS), 3.1 km in Rio de Janeiro (RJ), and 3.1 km in Paraná (PR).
 
+## Access the Report
+You can access the Power BI report by clicking [here](https://app.powerbi.com/view?r=eyJrIjoiZmE4OGQ5YTMtYmRjYS00MDM3LWFhMDgtYmJiMzg1MzkxMzk0IiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9).
 
 ## Dashboard
 
