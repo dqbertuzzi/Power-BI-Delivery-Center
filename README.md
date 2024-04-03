@@ -74,4 +74,8 @@ Support the Pricing team in adjusting delivery fees by providing the distributio
 
 
 ## Dashboard
-![alt text]([http://url/to/img.png](https://github.com/dqbertuzzi/Power-BI-Delivery-Center/blob/main/dash1.png))
+![Descrição da imagem](https://github.com/dqbertuzzi/Power-BI-Delivery-Center/blob/main/dash1.png?raw=true)
+
+![Descrição da imagem](https://github.com/dqbertuzzi/Power-BI-Delivery-Center/blob/main/dash2.png?raw=true)
+
+![Descrição da imagem](https://github.com/dqbertuzzi/Power-BI-Delivery-Center/blob/main/dash3.png?raw=true)
