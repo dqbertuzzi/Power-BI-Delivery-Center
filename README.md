@@ -9,26 +9,15 @@ The dataset covers the first quarter of 2021 and comprises data collected from h
 
 Description of Datasets:
 
-- **channels:**
-  - Contains information about sales channels (marketplaces) where our merchants' goods and food are sold.
-
-- **deliveries:**
-  - Provides details about deliveries made by our partner drivers. This includes information such as delivery status, distance traveled, and delivery timestamps.
-
-- **drivers:**
-  - Contains information about partner drivers who operate from our hubs. These drivers are responsible for delivering orders to consumers' homes.
-
-- **hubs:**
-  - Provides information about the hubs within the Delivery Center network. Hubs serve as order distribution centers, dispatching deliveries to their destinations.
-
-- **orders:**
-  - Contains information about sales processed through the Delivery Center platform. This dataset includes details about orders, such as order IDs, timestamps, and order statuses.
-
-- **payments:**
-  - Includes information about payments made to the Delivery Center. This dataset provides insights into financial transactions related to orders and deliveries.
-
-- **stores:**
-  - Contains information about merchants who utilize the Delivery Center platform to sell their items, including both goods and food products, across various marketplaces.
+| Dataset     | Description                                                                                                            |
+|-------------|------------------------------------------------------------------------------------------------------------------------|
+| channels    | Contains information about sales channels (marketplaces) where our merchants' goods and food are sold.                  |
+| deliveries  | Provides details about deliveries made by our partner drivers. This includes information such as delivery status, distance traveled, and delivery timestamps. |
+| drivers     | Contains information about partner drivers who operate from our hubs. These drivers are responsible for delivering orders to consumers' homes. |
+| hubs        | Provides information about the hubs within the Delivery Center network. Hubs serve as order distribution centers, dispatching deliveries to their destinations. |
+| orders      | Contains information about sales processed through the Delivery Center platform. This dataset includes details about orders, such as order IDs, timestamps, and order statuses. |
+| payments    | Includes information about payments made to the Delivery Center. This dataset provides insights into financial transactions related to orders and deliveries. |
+| stores      | Contains information about merchants who utilize the Delivery Center platform to sell their items, including both goods and food products, across various marketplaces. |
 
 **Questions**
 1. **Employee Bonus Calculation:**
